@@ -70,16 +70,6 @@ Power BI • Figma • Railway • PostgreSQL • GitHub • Jetson Nano
   <img src="https://leetcard.jacoblin.cool/PATEL_BANTI?theme=dark&font=Roboto&ext=contest" height="200">
 </p>
 
----
-
-## 🏅 HackerRank Certifications
-
-![Python](https://img.shields.io/badge/Python-2⭐-brightgreen?style=flat&logo=hackerrank)
-![Java](https://img.shields.io/badge/Java-4⭐-blue?style=flat&logo=hackerrank)
-![C++](https://img.shields.io/badge/C++-5⭐-orange?style=flat&logo=hackerrank)
-
----
-
 ## 🏆 Achievements
 
 - 🥉 **2nd Runner-Up @ Ideathon 2025** – Fruit Quality Detection  
