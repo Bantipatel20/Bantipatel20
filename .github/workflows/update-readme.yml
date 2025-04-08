@@ -1,10 +1,12 @@
-
 name: Update README
 
 on:
   schedule:
-    - cron: '0 */1 * * *'  # Runs every 6 hours
+    - cron: '0 */1 * * *'  # Runs every 1 hour
   workflow_dispatch:
+
+permissions:
+  contents: write  # ✅ Needed to allow pushing to repo
 
 jobs:
   update:
@@ -12,6 +14,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # ✅ Auth for pushing
 
       - name: Update Timestamp (Forcing README Update)
         run: |
@@ -19,8 +23,8 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config --global user.name 'Banti Patel'
-          git config --global user.email 'your-email@example.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
           git commit -m "🔄 Updated README with latest stats" || echo "No changes to commit"
           git push
