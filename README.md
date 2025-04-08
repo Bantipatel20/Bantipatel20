@@ -59,8 +59,9 @@ Power BI • Figma • Railway • PostgreSQL • GitHub • Jetson Nano
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bantipatel20&theme=radical&hide_border=false"/>
+  <img src="https://streak-stats.mnsh.dev?user=Bantipatel20&theme=radical&hide_border=false"/>
 </p>
+
 
 ---
 
