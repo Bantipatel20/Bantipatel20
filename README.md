@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Tech Enthusiast | 🎓 CSE @ CHARUSAT | 🤖 AI & ML Explorer | 💡 Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Machine+Learning+Enthusiast;Pythonista+%F0%9F%90%8D;Tech+Explorer+%F0%9F%9A%80;Let's+Build+Something+Awesome!&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Machine+Learning+Enthusiast;Pythonista+%F0%9F%90%8D;Tech+Explorer+%F0%9F%9A%80;Let's+Build+Something+Awesome!&center=true&width=500&height=50" alt="Typing SVG">
 </p>
 
 ---
@@ -54,22 +54,23 @@ Power BI • Figma • Railway • PostgreSQL • GitHub • Jetson Nano
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bantipatel20&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bantipatel20&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bantipatel20&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bantipatel20&layout=compact&theme=radical" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.mnsh.dev?user=Bantipatel20&theme=radical&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bantipatel20&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
-
 
 ---
 
 ## 📈 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/PATEL_BANTI?theme=dark&font=Roboto&ext=contest" height="200">
+  <img src="https://leetcard.jacoblin.cool/PATEL_BANTI?theme=dark&font=Roboto&ext=contest" height="200" />
 </p>
+
+---
 
 ## 🏆 Achievements
 
@@ -83,15 +84,15 @@ Power BI • Figma • Railway • PostgreSQL • GitHub • Jetson Nano
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:patelbanti993@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/banti-patel-b091b0288/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Bantipatel20"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:patelbanti993@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/banti-patel-b091b0288/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Bantipatel20"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bantipatel20&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Bantipatel20&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
 <p align="center">🚀 *Turning Ideas Into Impact – One Project at a Time!*</p>
