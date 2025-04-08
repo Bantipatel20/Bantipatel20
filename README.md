@@ -8,7 +8,7 @@
 ---
 
 ## 📌 About Me
-- 🎓 Final Year B.Tech CSE Student @ **CHARUSAT University**  
+- 🎓 Second Year B.Tech CSE Student @ **CHARUSAT University**  
 - 🤖 Passionate about Machine Learning, Deep Learning & Real-World AI Applications  
 - 💡 Always eager to build intelligent systems that solve real-world problems  
 - 📈 Strong interest in Data Visualization, AI for Agriculture & Smart Solutions  
