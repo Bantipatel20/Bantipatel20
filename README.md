@@ -59,8 +59,9 @@ Power BI • Figma • Railway • PostgreSQL • GitHub • Jetson Nano
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Streaks-🔥%20Active%20Contributor-red?style=for-the-badge&logo=github" alt="Static GitHub Streak Badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Streaks-Consistent%20Contributor-%23FF5733?style=for-the-badge&logo=github" alt="Static GitHub Activity Badge" />
 </p>
+
 
 
 
