@@ -2,11 +2,11 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */1 * * *'  # Runs every 1 hour
+    - cron: '0 */1 * * *'  # ⏰ Runs every 1 hour
   workflow_dispatch:
 
 permissions:
-  contents: write  # ✅ Needed to allow pushing to repo
+  contents: write  # ✅ Required to push updates
 
 jobs:
   update:
@@ -15,11 +15,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # ✅ Auth for pushing
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update Timestamp (Forcing README Update)
         run: |
-          date > timestamp.txt
+          echo "Last updated: $(date)" > timestamp.txt
 
       - name: Commit and Push
         run: |
