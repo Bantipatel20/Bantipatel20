@@ -27,9 +27,6 @@
 ### 📦 Dynamic WareGrid
 > Warehouse Inventory system with chatbot assistant, barcode scanning & Plotly  
 
-### 🎓 LearnTrack – Student Grade Predictor  
-> Predict student grades & performance; includes visual reports & charts  
-
 ---
 
 ## 🛠 Tech Stack & Skills
