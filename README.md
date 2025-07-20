@@ -1,17 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Banti Patel</h1>
-<h3 align="center">🚀 Tech Enthusiast | 🎓 CSE @ CHARUSAT | 🤖 AI & ML Explorer | 💡 Innovator</h3>
+<h3 align="center">💻 Software Developer | 🎓 CSE @ CHARUSAT | 🤖 AI & ML Explorer | 💡 Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Machine+Learning+Enthusiast;Pythonista+%F0%9F%90%8D;Tech+Explorer+%F0%9F%9A%80;Let's+Build+Something+Awesome!&center=true&width=500&height=50" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Software+Developer+%F0%9F%92%BB;MERN+Stack+Builder;AI+and+ML+Explorer;Let's+Build+Something+Awesome!&center=true&width=500&height=50" alt="Typing SVG">
 </p>
 
 ---
 
 ## 📌 About Me
+- 💻 Passionate **Software Developer** focused on innovation & real-world solutions  
 - 🎓 Third Year B.Tech CSE Student @ **CHARUSAT University**  
-- 🤖 Passionate about Machine Learning, Deep Learning & Real-World AI Applications  
-- 💡 Always eager to build intelligent systems that solve real-world problems  
-- 📈 Strong interest in Data Visualization, AI for Agriculture & Smart Solutions  
+- 🤖 Exploring Machine Learning, Deep Learning, and Smart Systems  
+- 💡 Interested in AI for Agriculture, Data Visualization & Scalable Web Apps  
 
 ---
 
@@ -32,19 +32,34 @@
 ## 🛠 Tech Stack & Skills
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
+
 **Frameworks & Tools**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=flat&logo=Keras&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
+---
+
 **Other Skills**  
-Power BI • Figma • Railway • PostgreSQL • GitHub • Jetson Nano
+Figma • Power BI • GitHub • PostgreSQL • Railway • Jetson Nano
 
 ---
 
@@ -58,13 +73,6 @@ Power BI • Figma • Railway • PostgreSQL • GitHub • Jetson Nano
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Streaks-Consistent%20Contributor-%23FF5733?style=for-the-badge&logo=github" alt="Static GitHub Activity Badge" />
 </p>
-
-
-
-
-
-
-
 
 ---
 
