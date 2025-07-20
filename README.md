@@ -1,17 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Banti Patel</h1>
-<h3 align="center">💻 Software Developer | 🎓 CSE @ CHARUSAT | 🤖 AI & ML Explorer | 💡 Innovator</h3>
+<h3 align="center">💻 Software Developer | 🎓 CSE @ CHARUSAT | 💡 Full-Stack Engineer | 🚀 Tech Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Software+Developer+%F0%9F%92%BB;MERN+Stack+Builder;AI+and+ML+Explorer;Let's+Build+Something+Awesome!&center=true&width=500&height=50" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Software+Developer+%F0%9F%92%BB;MERN+Stack+Builder;ML+Model+Builder;Let's+Build+Something+Awesome!&center=true&width=500&height=50" alt="Typing SVG">
 </p>
 
 ---
 
 ## 📌 About Me
-- 💻 Passionate **Software Developer** focused on innovation & real-world solutions  
+- 💻 Passionate **Software Developer** with a knack for frontend, backend & intelligent systems  
 - 🎓 Third Year B.Tech CSE Student @ **CHARUSAT University**  
-- 🤖 Exploring Machine Learning, Deep Learning, and Smart Systems  
-- 💡 Interested in AI for Agriculture, Data Visualization & Scalable Web Apps  
+- 🛠 Skilled in building full-stack web apps, dashboards, and scalable software solutions  
+- 💡 Loves solving real-world problems with clean, efficient code  
 
 ---
 
@@ -22,7 +22,7 @@
 🧪 Predicts: Apple, Banana, Guava, Lime, Orange, Pomegranate — [Good, Bad, Mixed]
 
 ### 🧠 PlaceAI
-> Flask-based ML app to predict placement chances using CGPA & IQ  
+> Flask-based software to predict placement chances using CGPA & IQ  
 
 ### 📦 Dynamic WareGrid
 > Warehouse Inventory system with chatbot assistant, barcode scanning & Plotly  
@@ -89,7 +89,7 @@ Figma • Power BI • GitHub • PostgreSQL • Railway • Jetson Nano
 - 🥉 **2nd Runner-Up @ Ideathon 2025** – Fruit Quality Detection  
 - 🧠 **4th Place @ PyQuest Hackathon** – Event Management System  
 - 👨‍💻 Solved **200+ problems** on LeetCode  
-- 📜 Coursera Certified – ML Specialization (Stanford + DeepLearning.AI), Python by Google, Jetson AI by NVIDIA  
+- 📜 Certified in Python, Full-Stack Development & Jetson AI by NVIDIA  
 
 ---
 
