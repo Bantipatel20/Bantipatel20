@@ -66,12 +66,12 @@ Figma • Power BI • GitHub • PostgreSQL • Railway • Jetson Nano
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bantipatel20&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bantipatel20&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bantipatel20&layout=compact&theme=radical" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Streaks-Consistent%20Contributor-%23FF5733?style=for-the-badge&logo=github" alt="Static GitHub Activity Badge" />
+  <img src="https://streak-stats.demolab.com?user=Bantipatel20&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="160" />
 </p>
 
 ---
