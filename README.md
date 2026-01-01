@@ -1,112 +1,134 @@
 <h1 align="center">Hi there 👋, I'm Banti Patel</h1>
-<h3 align="center">💻 Software Developer | 🎓 CSE @ CHARUSAT | 💡 Full-Stack Engineer | 🚀 Tech Innovator</h3>
+<h3 align="center">
+🎓 Computer Science & Engineering Undergraduate @ CHARUSAT <br/>
+💻 Software Developer | 🌐 Full-Stack Web Developer | 🤖 Machine Learning Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Software+Developer+%F0%9F%92%BB;MERN+Stack+Builder;ML+Model+Builder;Let's+Build+Something+Awesome!&center=true&width=500&height=50" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Software+Developer;Full-Stack+Web+Development;Machine+Learning+Projects;Learning+and+Building+Every+Day&center=true&width=520&height=50">
 </p>
 
 ---
 
 ## 📌 About Me
-- 💻 Passionate **Software Developer** with a knack for frontend, backend & intelligent systems  
-- 🎓 Third Year B.Tech CSE Student @ **CHARUSAT University**  
-- 🛠 Skilled in building full-stack web apps, dashboards, and scalable software solutions  
-- 💡 Loves solving real-world problems with clean, efficient code  
+
+- 🎓 B.Tech **Computer Science & Engineering** student at **CHARUSAT University** (CGPA: **9.53/10**)  
+- 💻 Passionate about **software development**, **full-stack web applications**, and **machine learning**  
+- 🛠 Experienced in building real-world projects with **API integration**, **databases**, and **ML models**  
+- 🚀 Strong interest in solving practical problems using clean and efficient code  
 
 ---
 
-## 🚀 Highlight Projects
+## 🎓 Education
 
-### 🍎 Fruit Quality Prediction (Ideathon 2nd Runner-Up 🏆)
-> Real-time fruit quality detection app using CNN, TensorFlow Lite & Streamlit  
-🧪 Predicts: Apple, Banana, Guava, Lime, Orange, Pomegranate — [Good, Bad, Mixed]
-
-### 🧠 PlaceAI
-> Flask-based software to predict placement chances using CGPA & IQ  
-
-### 📦 Dynamic WareGrid
-> Warehouse Inventory system with chatbot assistant, barcode scanning & Plotly  
+**Charotar University of Science and Technology (CHARUSAT)**  
+B.Tech in Computer Science & Engineering (2023 – 2027)  
+📊 CGPA: **9.53 / 10.00** (up to 5th Semester)
 
 ---
 
-## 🛠 Tech Stack & Skills
+## 🚀 Projects
 
-**Languages**  
+### 🧑‍💻 Codify – Coding Platform (2025)
+**Tech Stack:** MERN Stack, Tailwind CSS  
+- Browser-based coding assessment and practice platform  
+- Supports multi-language programming and automated evaluation  
+- Designed for contests and real-time performance tracking  
+
+---
+
+### 🍎 Fruit Quality Detection (2025)
+**Tech Stack:** Python, CNN, TensorFlow Lite, Streamlit  
+- Developed an AI-based system to predict fruit quality from images  
+- Supports image upload and real-time webcam analysis  
+- Achieved **91% accuracy** using deep learning  
+
+---
+
+### 🛣 Pothole Detection Using Deep Learning (2026)
+**Tech Stack:** Python, CNN, MobileNet-V3  
+- Built a lightweight deep learning model for pothole detection  
+- Optimized for real-time performance and low computational cost  
+
+---
+
+## 🛠 Skills & Tech Stack
+
+### 🔹 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
 ---
 
-**Frameworks & Tools**  
+### 🔹 Web Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+---
+
+### 🔹 Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=flat&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+
+---
+
+### 🔹 Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-Deep_Learning-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
-**Other Skills**  
-Figma • Power BI • GitHub • PostgreSQL • Railway • Jetson Nano
+## 📜 Certifications
+
+- Design and Analysis of Algorithms – **IIT Kharagpur (NPTEL)**  
+- Data Structures and Algorithms Using Java (Elite) – **IIT Kharagpur (NPTEL)**  
+- Machine Learning Specialization – **DeepLearning.AI & Stanford (Coursera)**  
+- Getting Started with AI on Jetson Nano – **NVIDIA**  
+- Crash Course on Python – **Google (Coursera)**  
+
+---
+
+## 🏆 Achievements
+
+- 🥉 **2nd Runner-Up – Ideathon 2025** (CSPIT-CSE Department)  
+- 🧠 **4th Place – PyQuest Hackathon** (Python Hackathon)  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Bantipatel20&show_icons=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=1800" />
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bantipatel20&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bantipatel20&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bantipatel20&layout=compact&theme=radical" height="165"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bantipatel20&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="160" />
-</p>
-
----
-
-## 📈 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/PATEL_BANTI?theme=dark&font=Roboto&ext=contest" height="200" />
-</p>
-
----
-
-## 🏆 Achievements
-
-- 🥉 **2nd Runner-Up @ Ideathon 2025** – Fruit Quality Detection  
-- 🧠 **4th Place @ PyQuest Hackathon** – Event Management System  
-- 👨‍💻 Solved **200+ problems** on LeetCode  
-- 📜 Certified in Python, Full-Stack Development & Jetson AI by NVIDIA  
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:patelbanti993@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/banti-patel-b091b0288/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Bantipatel20"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:patelbanti993@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/banti-patel-b091b0288/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Bantipatel20">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+  </a>
 </p>
-
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bantipatel20&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+🚀 <i>Turning knowledge into real-world software solutions.</i>
 </p>
-
-<p align="center">🚀 *Turning Ideas Into Impact – One Project at a Time!*</p>
