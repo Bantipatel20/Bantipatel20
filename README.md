@@ -11,8 +11,8 @@
 
 - 🎓 B.Tech **Computer Science & Engineering** student at **CHARUSAT University**
 - 📊 CGPA: **9.53 / 10.00** (up to 5th Semester)
-- 💻 Interested in **software development**, **full-stack web apps**, and **machine learning**
-- 🛠 Experience in API integration, databases, and ML-based systems
+- 💻 Interested in **software development**, **full-stack web applications**, and **machine learning**
+- 🛠 Experience with APIs, databases, and ML-based systems
 - 🚀 Focused on building real-world, production-ready applications
 
 ---
@@ -25,16 +25,20 @@
 - Supports multi-language programming and automated evaluation  
 - Enables contests and real-time performance tracking  
 
+---
+
 ### 🍎 Fruit Quality Detection (2025)
 **Tech Stack:** Python, CNN, TensorFlow Lite, Streamlit  
-- AI-based system for fruit quality classification using images  
-- Supports image uploads and real-time webcam analysis  
+- AI-based system for fruit quality prediction from images  
+- Supports image upload and real-time webcam analysis  
 - Achieved **91% accuracy**
+
+---
 
 ### 🛣 Pothole Detection Using Deep Learning (2026)
 **Tech Stack:** Python, CNN, MobileNet-V3  
 - Lightweight deep learning model for pothole detection  
-- Optimized for real-time and low-compute environments  
+- Optimized for real-time inference and low computational cost  
 
 ---
 
@@ -66,8 +70,33 @@ CNN • TensorFlow Lite • Streamlit • Deep Learning
 
 ## 🏆 Achievements
 
-- 🥉 **2nd Runner-Up – Ideathon 2025**
+- 🥉 **2nd Runner-Up – Ideathon 2025** (CSPIT-CSE Department)
 - 🧠 **4th Place – PyQuest Hackathon**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://bantipatel20.vercel.app/api?username=Bantipatel20&show_icons=true&include_all_commits=true&count_private=true&theme=radical"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://bantipatel20.vercel.app/api/top-langs/?username=Bantipatel20&layout=compact&langs_count=8&theme=radical"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Bantipatel20&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
@@ -82,3 +111,4 @@ CNN • TensorFlow Lite • Streamlit • Deep Learning
 <p align="center">
 🚀 <i>Turning knowledge into real-world software solutions.</i>
 </p>
+
