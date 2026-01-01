@@ -108,10 +108,14 @@ B.Tech in Computer Science & Engineering (2023 – 2027)
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bantipatel20&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bantipatel20&layout=compact&theme=radical" height="165"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api
+?username=Bantipatel20
+&show_icons=true
+&include_all_commits=true
+&count_private=true
+&theme=radical" />
+
+
 
 ---
 
