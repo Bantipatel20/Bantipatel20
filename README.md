@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Banti Patel</h1>
+
 <h3 align="center">
 🎓 Computer Science & Engineering Undergraduate @ CHARUSAT <br/>
 💻 Software Developer | 🌐 Full-Stack Web Developer | 🤖 Machine Learning Enthusiast
@@ -12,18 +13,11 @@
 
 ## 📌 About Me
 
-- 🎓 B.Tech **Computer Science & Engineering** student at **CHARUSAT University** (CGPA: **9.53/10**)  
-- 💻 Passionate about **software development**, **full-stack web applications**, and **machine learning**  
-- 🛠 Experienced in building real-world projects with **API integration**, **databases**, and **ML models**  
-- 🚀 Strong interest in solving practical problems using clean and efficient code  
-
----
-
-## 🎓 Education
-
-**Charotar University of Science and Technology (CHARUSAT)**  
-B.Tech in Computer Science & Engineering (2023 – 2027)  
-📊 CGPA: **9.53 / 10.00** (up to 5th Semester)
+- 🎓 B.Tech **Computer Science & Engineering** student at **CHARUSAT University**  
+- 📊 CGPA: **9.53 / 10.00** (up to 5th Semester)  
+- 💻 Interested in **software development**, **full-stack web applications**, and **machine learning**  
+- 🛠 Experience in API integration, database management, and ML-based systems  
+- 🚀 Focused on building real-world, production-ready applications  
 
 ---
 
@@ -33,22 +27,22 @@ B.Tech in Computer Science & Engineering (2023 – 2027)
 **Tech Stack:** MERN Stack, Tailwind CSS  
 - Browser-based coding assessment and practice platform  
 - Supports multi-language programming and automated evaluation  
-- Designed for contests and real-time performance tracking  
+- Enables contests and real-time performance tracking  
 
 ---
 
 ### 🍎 Fruit Quality Detection (2025)
 **Tech Stack:** Python, CNN, TensorFlow Lite, Streamlit  
-- Developed an AI-based system to predict fruit quality from images  
-- Supports image upload and real-time webcam analysis  
-- Achieved **91% accuracy** using deep learning  
+- AI-based system for fruit quality classification using images  
+- Supports image uploads and real-time webcam analysis  
+- Achieved **91% accuracy** using deep learning models  
 
 ---
 
 ### 🛣 Pothole Detection Using Deep Learning (2026)
 **Tech Stack:** Python, CNN, MobileNet-V3  
-- Built a lightweight deep learning model for pothole detection  
-- Optimized for real-time performance and low computational cost  
+- Lightweight deep learning model for pothole detection  
+- Optimized for real-time processing and low computational cost  
 
 ---
 
@@ -102,20 +96,23 @@ B.Tech in Computer Science & Engineering (2023 – 2027)
 ## 🏆 Achievements
 
 - 🥉 **2nd Runner-Up – Ideathon 2025** (CSPIT-CSE Department)  
-- 🧠 **4th Place – PyQuest Hackathon** (Python Hackathon)  
+- 🧠 **4th Place – PyQuest Hackathon**  
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api
-?username=Bantipatel20
-&show_icons=true
-&include_all_commits=true
-&count_private=true
-&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bantipatel20&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bantipatel20&layout=compact&langs_count=8&theme=radical" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bantipatel20&theme=radical&hide_border=true" />
+</p>
 
 ---
 
