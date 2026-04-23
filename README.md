@@ -1,16 +1,6 @@
 <div align="center">
-
-```
-██████╗  █████╗ ███╗   ██╗████████╗██╗    ██████╗  █████╗ ████████╗███████╗██╗
-██╔══██╗██╔══██╗████╗  ██║╚══██╔══╝██║    ██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██║
-██████╔╝███████║██╔██╗ ██║   ██║   ██║    ██████╔╝███████║   ██║   █████╗  ██║
-██╔══██╗██╔══██║██║╚██╗██║   ██║   ██║    ██╔═══╝ ██╔══██║   ██║   ██╔══╝  ██║
-██████╔╝██║  ██║██║ ╚████║   ██║   ██║    ██║     ██║  ██║   ██║   ███████╗███████╗
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝    ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
-```
-
-### `AI Engineer` · `Full-Stack Developer` · `Edge AI Enthusiast`
-
+BANTI PATEL
+AI Engineer · Full-Stack Developer · Edge AI Enthusiast`
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Building+AI+that+runs+at+the+edge+%F0%9F%94%8B;RAG+%2B+LLMs+%2B+Real-World+Systems+%F0%9F%A7%A0;MERN+%2B+Python+%2B+PyTorch+%F0%9F%9A%80;CGPA%3A+9.53%2F10+%40+CHARUSAT+University+%F0%9F%8E%93)](https://github.com/Bantipatel20)
