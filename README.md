@@ -1,166 +1,198 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:1d9e75&height=200&section=header&text=Banti%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Edge%20AI%20Enthusiast&descAlignY=58&descColor=e1f5ee" />
-
-</div>
-
----
-
-## 🧠 About Me
-
-```python
-class BantiPatel:
-    university  = "CHARUSAT – B.Tech CSE"
-    cgpa        = "9.53 / 10.00 (5th Sem)"
-    location    = "Surat, Gujarat, India"
-    interests   = ["Edge AI", "LLMs", "RAG", "Full-Stack", "Real-World Systems"]
-    currently   = "Building AI-powered products that solve real problems"
-    open_to     = "Internships · Collaborations · Open Source"
+```
+██████╗  █████╗ ███╗   ██╗████████╗██╗    ██████╗  █████╗ ████████╗███████╗██╗
+██╔══██╗██╔══██╗████╗  ██║╚══██╔══╝██║    ██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██║
+██████╔╝███████║██╔██╗ ██║   ██║   ██║    ██████╔╝███████║   ██║   █████╗  ██║
+██╔══██╗██╔══██║██║╚██╗██║   ██║   ██║    ██╔═══╝ ██╔══██║   ██║   ██╔══╝  ██║
+██████╔╝██║  ██║██║ ╚████║   ██║   ██║    ██║     ██║  ██║   ██║   ███████╗███████╗
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝    ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
 ```
 
----
+### `AI Engineer` · `Full-Stack Developer` · `Edge AI Enthusiast`
 
-## 🚀 Featured Projects
+<br/>
 
-<table>
-<tr>
-<td width="50%">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Building+AI+that+runs+at+the+edge+%F0%9F%94%8B;RAG+%2B+LLMs+%2B+Real-World+Systems+%F0%9F%A7%A0;MERN+%2B+Python+%2B+PyTorch+%F0%9F%9A%80;CGPA%3A+9.53%2F10+%40+CHARUSAT+University+%F0%9F%8E%93)](https://github.com/Bantipatel20)
 
-### 🧪 Edge AI – Drug Mixing Detection
-![Python](https://img.shields.io/badge/Python-0f6e56?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
-![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-76b900?style=flat-square&logo=nvidia&logoColor=white)
+<br/>
 
-Real-time, **fully offline** edge AI system to detect drug mixing — running on Jetson Nano, zero cloud dependency. Supports live camera + image upload.
-
-> 💰 Funded with **₹40,000 SSIP Grant** · [GitHub →](https://github.com/Bantipatel20)
-
-</td>
-<td width="50%">
-
-### 📞 Grievance Resolution Verifier
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285f4?style=flat-square&logo=google&logoColor=white)
-
-AI-powered IVR system verifying public grievance outcomes via **Gujarati voice calls**. Integrates geo-tagging, GPS, and auto-reopen logic.
-
-> 🏆 Won **₹30,000** at TarkShaastra 2k26 · [GitHub →](https://github.com/Bantipatel20)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎯 Placify – Career Companion
-![MERN](https://img.shields.io/badge/MERN-0f6e56?style=flat-square&logo=mongodb&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=flat-square&logo=chainlink&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-7f77dd?style=flat-square)
-
-All-in-one career platform — resume → portfolio conversion, ATS analysis, and AI interview prep powered by **RAG + LLMs**.
-
-> [GitHub →](https://github.com/Bantipatel20)
-
-</td>
-<td width="50%">
-
-### 💻 Codify – Online Coding Platform
-![MERN](https://img.shields.io/badge/MERN-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-Browser-based coding platform with multi-language execution, automated evaluation, contest system, and real-time performance dashboards.
-
-> [GitHub →](https://github.com/Bantipatel20)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599c?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00427e?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Web & Databases**
-
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/banti-patel-b091b0288/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bantipatel20)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelbanti993@gmail.com)
 
 </div>
 
----
-
-## 🏆 Achievements
-
-| 🏅 | Event | Prize | Project |
-|---|---|---|---|
-| 🥈 2nd Runner-Up | **TarkShaastra 2k26** – National Hackathon | ₹30,000 | Grievance Resolution Verifier |
-| 🥇 1st Rank | **NanoQUEST** – Edge AI Competition | ₹3,000 | Drug Mixing Detection |
-| 🥉 2nd Runner-Up | **Ideathon 2025** (CSPIT-CSE) | — | Fruit Quality Detection System |
+<br/>
 
 ---
 
-## 📜 Certifications
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🎓 **Design and Analysis of Algorithms** – NPTEL (IIT Kharagpur)
-- 🎓 **Data Structures & Algorithms using Java** – NPTEL (IIT Kharagpur)
-- 🎓 **Machine Learning Specialization** – DeepLearning.AI & Stanford (Coursera)
-- 🎓 **Getting Started with AI on Jetson Nano** – NVIDIA
+## `$ whoami`
+
+```yaml
+name       : Banti Patel
+role       : AI/ML + Full-Stack Developer
+university : CHARUSAT – B.Tech CSE ('27)
+cgpa       : 9.53 / 10.00
+location   : Surat, Gujarat, India
+focus      : Edge AI · LLMs · RAG · Production Systems
+status     : Open to Internships & Collaborations
+```
+
+<br/><br/><br/><br/><br/>
 
 ---
 
-## 📊 GitHub Stats
+## `$ ls projects/`
+
+<br/>
+
+<details open>
+<summary><b>🧪 Edge AI – Drug Mixing Detection System</b> &nbsp;<code>2026</code></summary>
+<br/>
+
+> Real-time, **fully offline** classification of drug samples on Jetson Nano — no cloud, no latency.
+
+| Stack | Highlight |
+|-------|-----------|
+| `Python` `PyTorch` `DenseNet121` `Streamlit` `Jetson Nano` | Live camera + image upload prediction |
+
+**💰 Funded with ₹40,000 SSIP Grant** &nbsp;·&nbsp; **🥇 1st Rank at NanoQUEST (₹3,000)**
+
+[![Repo](https://img.shields.io/badge/View_Repo-0f6e56?style=flat-square&logo=github&logoColor=white)](https://github.com/Bantipatel20)
+
+</details>
+
+---
+
+<details open>
+<summary><b>📞 Grievance Resolution Verifier</b> &nbsp;<code>2026</code></summary>
+<br/>
+
+> AI-powered IVR system verifying public grievance outcomes via **Gujarati voice calls** — no smartphone needed.
+
+| Stack | Highlight |
+|-------|-----------|
+| `React.js` `Node.js` `Twilio API` `Google STT` `Gemini AI` | Geo-tagged + GPS validation + auto-reopen logic |
+
+**🏆 2nd Runner-Up at TarkShaastra 2k26 National Hackathon (₹30,000)**
+
+[![Repo](https://img.shields.io/badge/View_Repo-0f6e56?style=flat-square&logo=github&logoColor=white)](https://github.com/Bantipatel20)
+
+</details>
+
+---
+
+<details open>
+<summary><b>🎯 Placify – Career Companion Platform</b> &nbsp;<code>2026</code></summary>
+<br/>
+
+> All-in-one AI career platform — resume → portfolio, ATS analysis, and interview prep via RAG + LLMs.
+
+| Stack | Highlight |
+|-------|-----------|
+| `MERN` `Python` `RAG` `LangChain` `LLMs` `Tailwind CSS` | Resume-to-portfolio conversion with AI insights |
+
+[![Repo](https://img.shields.io/badge/View_Repo-0f6e56?style=flat-square&logo=github&logoColor=white)](https://github.com/Bantipatel20)
+
+</details>
+
+---
+
+<details open>
+<summary><b>💻 Codify – Online Coding Platform</b> &nbsp;<code>2025</code></summary>
+<br/>
+
+> Browser-based multi-language coding platform with automated evaluation, contests, and real-time dashboards.
+
+| Stack | Highlight |
+|-------|-----------|
+| `MERN Stack` `Tailwind CSS` | Contest system + live performance dashboards |
+
+[![Repo](https://img.shields.io/badge/View_Repo-0f6e56?style=flat-square&logo=github&logoColor=white)](https://github.com/Bantipatel20)
+
+</details>
+
+<br/>
+
+---
+
+## `$ cat skills.json`
+
+```json
+{
+  "languages"  : ["C", "C++", "Python", "JavaScript", "Java"],
+  "frontend"   : ["React.js", "HTML", "CSS", "Tailwind CSS"],
+  "backend"    : ["Node.js", "Express.js", "REST APIs"],
+  "databases"  : ["MongoDB", "MySQL"],
+  "ai_ml"      : ["Machine Learning", "Deep Learning", "NLP", "RAG", "LangChain"],
+  "frameworks" : ["PyTorch", "TensorFlow", "Scikit-learn"],
+  "tools"      : ["Git", "GitHub", "Streamlit", "Jetson Nano"],
+  "core_cs"    : ["OOPs", "DBMS", "Operating Systems", "Computer Networks"]
+}
+```
+
+<br/>
+
+---
+
+## `$ cat achievements.log`
+
+```
+[2026-04]  🥈  2nd Runner-Up  →  TarkShaastra 2k26 National Hackathon    →  ₹30,000  ←  Grievance Resolution Verifier
+[2026-04]  🥇  1st Rank       →  NanoQUEST (Edge AI Competition)          →   ₹3,000  ←  Drug Mixing Detection System
+[2025-04]  🥉  2nd Runner-Up  →  Ideathon 2025 (CSPIT-CSE)               →      —    ←  Fruit Quality Detection System
+```
+
+<br/>
+
+---
+
+## `$ ls certifications/`
+
+```
+├── NPTEL (IIT Kharagpur)  →  Design and Analysis of Algorithms
+├── NPTEL (IIT Kharagpur)  →  Data Structures and Algorithms Using Java
+├── Coursera               →  Machine Learning Specialization  (Stanford + DeepLearning.AI)
+└── NVIDIA                 →  Getting Started with AI on Jetson Nano
+```
+
+<br/>
+
+---
+
+## `$ github --stats`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bantipatel20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=1d9e75&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bantipatel20&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bantipatel20&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bantipatel20&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117&title_color=1d9e75&text_color=c9d1d9"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bantipatel20&theme=radical&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bantipatel20&theme=react-dark&hide_border=true&color=1d9e75&line=1d9e75&point=ffffff"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bantipatel20&theme=algolia&hide_border=true&background=0d1117&ring=1d9e75&fire=0f6e56&currStreakLabel=1d9e75" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/banti-patel-b091b0288/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bantipatel20)
-[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelbanti993@gmail.com)
-
-</div>
+<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:1d9e75&height=100&section=footer" />
+```
+╔══════════════════════════════════════════════════════════╗
+║   Let's build something real.  Open to collaborations.  ║
+║              patelbanti993@gmail.com                     ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=Bantipatel20&color=1d9e75&style=flat-square&label=Profile+Views)
 
 </div>
