@@ -1,114 +1,147 @@
 <h1 align="center">Hi there 👋, I'm Banti Patel</h1>
 
 <h3 align="center">
-🎓 Computer Science & Engineering Undergraduate @ CHARUSAT <br/>
-💻 Software Developer | 🌐 Full-Stack Web Developer | 🤖 Machine Learning Enthusiast
+🎓 B.Tech CSE @ CHARUSAT <br/>
+💻 Full-Stack Developer | 🤖 AI/ML & Edge AI Enthusiast | 🚀 Building Real-World Systems
 </h3>
 
 ---
 
 ## 📌 About Me
 
-- 🎓 B.Tech **Computer Science & Engineering** student at **CHARUSAT University**
-- 📊 CGPA: **9.53 / 10.00** (up to 5th Semester)
-- 💻 Interested in **software development**, **full-stack web applications**, and **machine learning**
-- 🛠 Experience with APIs, databases, and ML-based systems
-- 🚀 Focused on building real-world, production-ready applications
+* 🎓 Computer Science & Engineering student at **CHARUSAT University**
+* 📊 CGPA: **9.53 / 10.00** (up to 5th Semester)
+* 💡 Passionate about **AI/ML, Edge AI, and Full-Stack Development**
+* ⚙️ Strong focus on **real-world problem solving and production-ready systems**
+* 🔍 Exploring **RAG, LLMs, and intelligent automation systems**
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🧑‍💻 Codify – Coding Platform (2025)
-**Tech Stack:** MERN Stack, Tailwind CSS  
-- Browser-based coding assessment and practice platform  
-- Supports multi-language programming and automated evaluation  
-- Enables contests and real-time performance tracking  
+### 🧠 Edge AI – Drug Mixing Detection System (2026)
 
----
+**Tech Stack:** Python, PyTorch, DenseNet121, Streamlit, Jetson Nano
 
-### 🍎 Fruit Quality Detection (2025)
-**Tech Stack:** Python, CNN, TensorFlow Lite, Streamlit  
-- AI-based system for fruit quality prediction from images  
-- Supports image upload and real-time webcam analysis  
-- Achieved **91% accuracy**
+* Built a **real-time offline Edge AI system** for detecting drug mixing
+* Runs fully on **Jetson Nano without cloud dependency**
+* Supports **image upload & live camera prediction**
+* 💰 Funded with **₹40,000 SSIP Grant**
 
 ---
 
-### 🛣 Pothole Detection Using Deep Learning (2026)
-**Tech Stack:** Python, CNN, MobileNet-V3  
-- Lightweight deep learning model for pothole detection  
-- Optimized for real-time inference and low computational cost  
+### 📞 Grievance Resolution Verifier (2026)
+
+**Tech Stack:** React.js, Node.js, Twilio API, Google STT, Gemini AI
+
+* Developed an **AI-powered IVR system** for public grievance verification
+* Supports **Gujarati voice interaction (no smartphone required)**
+* Integrated **geo-tagging, GPS validation, and auto-reopen logic**
+* Improves **transparency in governance systems**
+
+---
+
+### 🤖 Placify – Career Companion Platform (2026)
+
+**Tech Stack:** MERN, Python, RAG, LangChain, LLMs
+
+* Built an **AI-powered career platform**
+* Features:
+
+  * Resume → Portfolio conversion
+  * ATS analysis
+  * Interview preparation modules
+* Uses **RAG + LLMs for intelligent insights**
+
+---
+
+### 🧑‍💻 Codify – Online Coding Platform (2025)
+
+**Tech Stack:** MERN Stack, Tailwind CSS
+
+* Multi-language coding platform with:
+
+  * Automated evaluation
+  * Contest system
+  * Real-time performance dashboards
 
 ---
 
 ## 🛠 Skills & Tech Stack
 
-### 🔹 Programming Languages
-C • C++ • Python • JavaScript • Java  
+### 🔹 Programming
 
-### 🔹 Web Technologies
-React.js • Node.js • Express.js • HTML • CSS • Tailwind CSS  
+C • C++ • Python • JavaScript • Java
 
-### 🔹 Databases & Tools
-MongoDB • MySQL • PostgreSQL • Git • GitHub  
+### 🔹 Web Development
 
-### 🔹 Machine Learning
-CNN • TensorFlow Lite • Streamlit • Deep Learning  
+React.js • Node.js • Express.js • REST APIs • HTML • CSS • Tailwind
 
----
+### 🔹 Databases
 
-## 📜 Certifications
+MongoDB • MySQL
 
-- Design and Analysis of Algorithms – **IIT Kharagpur (NPTEL)**
-- Data Structures and Algorithms Using Java (Elite) – **IIT Kharagpur (NPTEL)**
-- Machine Learning Specialization – **DeepLearning.AI & Stanford**
-- Getting Started with AI on Jetson Nano – **NVIDIA**
-- Crash Course on Python – **Google**
+### 🔹 AI / ML
+
+Machine Learning • Deep Learning • NLP • RAG • LangChain
+
+### 🔹 Tools & Frameworks
+
+Git • GitHub • TensorFlow • PyTorch • Scikit-learn
+
+### 🔹 Core Concepts
+
+OOPs • DBMS • Operating Systems • Computer Networks
 
 ---
 
 ## 🏆 Achievements
 
-- 🥉 **2nd Runner-Up – Ideathon 2025** (CSPIT-CSE Department)
-- 🧠 **4th Place – PyQuest Hackathon**
+* 🥈 **2nd Runner-Up – TarkShaastra 2k26 National Hackathon**
+
+  * 💰 Won **₹30,000** for AI-based Grievance System
+
+* 🥇 **1st Rank – NanoQUEST (Edge AI Project)**
+
+  * 💰 Won **₹3,000** for Drug Mixing Detection System
+
+* 🥉 **2nd Runner-Up – Ideathon 2025**
+
+---
+
+## 📜 Certifications
+
+* Design and Analysis of Algorithms – NPTEL (IIT Kharagpur)
+* Data Structures and Algorithms Using Java – NPTEL
+* Machine Learning Specialization – DeepLearning.AI & Stanford
+* Getting Started with AI on Jetson Nano – NVIDIA
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://bantipatel20.vercel.app/api?username=Bantipatel20&show_icons=true&include_all_commits=true&count_private=true&theme=radical"
-    alt="GitHub Stats"
-  />
+  <img src="https://bantipatel20.vercel.app/api?username=Bantipatel20&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img
-    src="https://bantipatel20.vercel.app/api/top-langs/?username=Bantipatel20&layout=compact&langs_count=8&theme=radical"
-    alt="Top Languages"
-  />
+  <img src="https://bantipatel20.vercel.app/api/top-langs/?username=Bantipatel20&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Bantipatel20&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=Bantipatel20&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: **patelbanti993@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/banti-patel-b091b0288/
-- 🧑‍💻 GitHub: https://github.com/Bantipatel20
+* 📧 Email: **[patelbanti993@gmail.com](mailto:patelbanti993@gmail.com)**
+* 💼 LinkedIn: https://www.linkedin.com/in/banti-patel-b091b0288/
+* 🧑‍💻 GitHub: https://github.com/Bantipatel20
 
 ---
 
 <p align="center">
-🚀 <i>Turning knowledge into real-world software solutions.</i>
+🚀 <i>Building intelligent systems that solve real-world problems.</i>
 </p>
-
